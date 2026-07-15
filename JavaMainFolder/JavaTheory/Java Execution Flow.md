@@ -230,3 +230,12 @@ Machine Code
 CPU
     ↓
 Welcome
+
+
+Brief about the execution flow of Java:
+
+1. Write java code in a .java file.
+2. compile the .java(source code) file using javac Command. it will generate a .class file(bytecode).
+3. Run the .class file using java command. JVM Will start and load the .class file into memory.
+4. Jvm will verify the bytecode and execute it using execution engine. Execution engine will use interpreter and JIT compiler to convert bytecode into machine code.
+5.jvm look for the main method and execute the code and finally output will be displayed on the console.

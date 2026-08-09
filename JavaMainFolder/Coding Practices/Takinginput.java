@@ -24,5 +24,6 @@ public class Takinginput {
         System.out.println("Enter the boolean value:");
         boolean g= sc.nextBoolean();
         System.out.println("The boolean value is:"+g);
+        sc.close();
     }
 }

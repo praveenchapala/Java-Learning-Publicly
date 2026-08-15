@@ -1,4 +1,4 @@
-hu1. Low-Level Programming Language
+ Low-Level Programming Language
 
 A low-level language is very close to the computer's hardware. It gives programmers direct control over memory, CPU registers, and hardware operations.
 

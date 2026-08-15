@@ -1,4 +1,4 @@
-1. Low-Level Programming Language
+hu1. Low-Level Programming Language
 
 A low-level language is very close to the computer's hardware. It gives programmers direct control over memory, CPU registers, and hardware operations.
 
@@ -91,18 +91,3 @@ C (the classic example)
 
 Some people also describe C++ as bridging both worlds because it supports both high-level abstractions and low-level programming, but C is the standard interview answer.
 
-Example (C)
-#include <stdio.h>
-
-int main() {
-    int a = 10;
-    int b = 20;
-    printf("%d", a + b);
-    return 0;
-}
-Uses
-Operating Systems
-Compilers
-Database Engines
-Embedded Systems
-System Software

@@ -1,4 +1,4 @@
-public class constu{
+public class constuctoroverloading{
     public static void main(String args[]){
         Student st = new Student(12,"Praveen","prav@gmail.com",90);
         st.displayinfo();

@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class secondlargest{
+public class secondlarg{
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);

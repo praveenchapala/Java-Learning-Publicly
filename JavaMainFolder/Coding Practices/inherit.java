@@ -18,7 +18,7 @@ class Developer{
     void buildapp(){
         System.out.println("Developer is building the app");
     }
-    void attendMeeting(){
+    void attendMeeting(){ //inherited method from the parent class to child class
         System.out.println("Developer is attending the meeting");
     }
 }

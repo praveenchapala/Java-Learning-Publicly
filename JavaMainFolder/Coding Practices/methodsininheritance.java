@@ -9,7 +9,7 @@ public class methodsininheritance{
 }
 class employee{
     void work(){
-        System.out.println("Employee is working ");
+        System.out.println("Employee is working ");//inherited method from parent class
     }
     void attendmeeting(){
         System.out.println("Employee is attending meeting");

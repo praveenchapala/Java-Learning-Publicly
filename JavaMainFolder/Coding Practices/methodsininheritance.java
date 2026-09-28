@@ -1,4 +1,4 @@
-public class methodsininher{
+public class methodsininheritance{
     public static void main(String args[]){
         Manager mg = new Manager();
         mg.work();

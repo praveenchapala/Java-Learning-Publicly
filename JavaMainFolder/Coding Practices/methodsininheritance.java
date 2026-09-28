@@ -18,6 +18,7 @@ class employee{
 
 class Manager extends employee{
     //overridden method
+    @Override  // this annotation is used to indicate that the method is overridden from the parent class
     void attendmeeting(){
         System.out.println("Manager is leading meeting");
     }

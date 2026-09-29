@@ -24,6 +24,7 @@ public class program1 {
 
 //private can be accessible only inside the same class not outside any package or any class
 
+//during inheritance all the members of parent class cannoot be inherited to child class if they are private members of the parent class
 
 
 package package1;

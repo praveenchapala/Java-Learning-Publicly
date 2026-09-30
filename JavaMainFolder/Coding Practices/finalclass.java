@@ -36,3 +36,7 @@ class Uday extends Praveen{
 // ERROR!
 // error: compilation failed
 
+
+// interviewer may ask that how to stop inheritance in java then we can use final keyword with class to stop inheritance
+
+

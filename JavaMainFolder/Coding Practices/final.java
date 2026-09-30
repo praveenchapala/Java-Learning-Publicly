@@ -22,3 +22,5 @@ public class final{
 // 1 error
 // ERROR!
 // error: compilation failed
+
+// interviewer may ask that how to create constant in java then we can use final keyword with variable to create constant

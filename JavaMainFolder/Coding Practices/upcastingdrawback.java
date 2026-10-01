@@ -31,6 +31,8 @@ public class upcastingdrawback{
 
         // this is the drawback or limitation of upcasting 
 
+        // if there is any requirement saying that we have to acess all the methods which are child-specific method , inherited method and overridden method then we use the concept of downcasting to access the child specific methods
+
         Parent c2 = new child2();
         c2.displayparent();
         c2.display();

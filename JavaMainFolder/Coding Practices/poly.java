@@ -171,7 +171,7 @@ class rectangle extends shape{
         
 //     }
 
-//     static void mymethod(shape sp){
+//     static void mymethod(shape sp){  here whenever we are calling any method in main method that method also should be static otherwise it will give error because we are calling static method from non static method
 //         sp.takeinput();
 //         sp.caluclatearea();
 //         sp.displayarea();

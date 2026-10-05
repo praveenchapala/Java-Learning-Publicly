@@ -1,5 +1,5 @@
 import java.util.*;
-public class Main{
+public class poly{
     public static void main(String args[]){
         circle crl = new circle();
         crl.takeinput();

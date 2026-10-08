@@ -19,7 +19,10 @@ public class abstraction{
         }
 }
 
-
+// abstract classes are such classes which are incomplete and we cannot instanitaite the object creation of abstract class
+// abstract classes are used to acheive abstraction in java
+// abstraction is the process of hiding the implementation details and showing only functionality to the user
+//abstract class can be used as base class for other classes to extend and implement the abstract methods.
 abstract class shape{
         int area;
 // abstract is the incomplete 

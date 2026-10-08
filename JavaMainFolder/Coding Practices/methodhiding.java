@@ -23,6 +23,7 @@ class Parent{
 }
 
 class Child extends Parent{
+    @Override 
     void method1(){// if it non static method is getting overridden to the child class then we call it as method overriding 
         System.out.println("inside child method 1");
     }

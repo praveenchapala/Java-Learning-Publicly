@@ -1,4 +1,5 @@
-public class interface{
+
+class Main {
     public static void main(String args[]){
         child ch = new child();
         ch.method1();
@@ -7,13 +8,13 @@ public class interface{
     }
 }
 
-public interface parent1{
+interface parent1{
     void method1();
 }
-public interface parent2{
+interface parent2{
     void method2();
 }
-public class child implements parent1,parent2{
+class child implements parent1,parent2{
     public void method1(){
         System.out.println("Inside child method1");
     }

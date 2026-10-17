@@ -1,6 +1,6 @@
 public class staticinnerclass {
     public static void main(String args[]){
-        outer.inner.displayinner();
+        outer.inner.displayinner(); // static inner class can be accessed directly by using outer class name and inner class name
         
     }
 }

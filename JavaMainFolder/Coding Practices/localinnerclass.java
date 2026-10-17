@@ -14,7 +14,7 @@ class outer{
                 System.out.println("Inside inner method");
             }
         }
-        inner inr = new inner();
+        inner inr = new inner();//local inner class can be used and create the object inside the method scope only outside the method not possible 
         inr.innermethod();
     }
 }

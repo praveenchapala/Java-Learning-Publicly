@@ -17,7 +17,7 @@ class outerclass{
         System.out.println(a);
         System.out.println(b);
     }
-        class Inner{  // member inner class (non static inner class)
+        class Inner{  // member inner class (non static inner class) 1st type of inner class
             int p=50;
             static int q=60;
             void innerdisplay(){

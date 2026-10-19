@@ -5,6 +5,8 @@ public class functionalinterface3rdapproach{
                 int b= 20;
                 System.out.println("The addition of a and b is :"+(a+b));
             };
+            //calculator calc = ()->System.out.println("The addition of a and b is :"+(10+20)); // this is the short form of the above code
+            //whenever we have only one statement in the method implementation we can write it in a single line without using {} and return keyword
         calc.add();
         
     }

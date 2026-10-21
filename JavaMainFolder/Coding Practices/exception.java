@@ -7,7 +7,7 @@ public class exception{
         int num1 = sc.nextInt();
         System.out.println("Enter the second number");
         int num2 = sc.nextInt();
-//         int res = num1/num2; //Program started
+        int res = num1/num2; //Program started
 // Enter the first number
 // 12
 // Enter the second number
